@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gfCharts</string>
+    <string name="tooltip_textview">Test Tips</string>
+</resources>
